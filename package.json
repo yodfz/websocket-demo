@@ -1,0 +1,23 @@
+{
+  "name": "websocket-demo",
+  "version": "1.0.0",
+  "description": "项目主要用于简单演示如何使用websocket连接服务端通讯.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yodfz/websocket-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yodfz/websocket-demo/issues"
+  },
+  "homepage": "https://github.com/yodfz/websocket-demo#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "websocket": "^1.0.23"
+  }
+}
